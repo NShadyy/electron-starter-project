@@ -2,6 +2,9 @@
 logs
 *.log
 
+# Sonar Scanner
+.scannerwork
+
 # Runtime data
 pids
 *.pid
